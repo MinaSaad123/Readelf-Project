@@ -1,11 +1,13 @@
 # Readelf-Project
 
-## Still in progress 80%, I will give URLs to my summary gro chapter in github
+## Still in progress 80%, I will give URLs to my summary for chapters in github
 
 [LINUX programming interface](https://github.com/MinaSaad123/Linux-programming-interface-book)
+
 Chapter 2 is still not finished
 
 [Real Time Embedded-Systems book](https://github.com/MinaSaad123/Real-Time-Embedded-Systems-book)
+
 Still not finished
 
 
