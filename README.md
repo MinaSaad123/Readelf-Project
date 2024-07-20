@@ -11,7 +11,7 @@ Chapter 2 is still not finished
 Still not finished
 
 
-the last week my dad was sick and go to hospital for a while, due to that my week was chaos and not enough to finish what i want.
+**the last week my dad was sick and go to hospital for a while, due to that my week was chaos and not enough to finish what i want.**
 
 
 |         **Task**            |                                                                   **Description**                                                             |
