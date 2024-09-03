@@ -1,6 +1,6 @@
 # Readelf-Project
 
-This REPO is established to explain sequence to create symbols table and simple readelf -h project.
-
+# Compare between my elf parser and readelf -h
+![Compare between my elf parser and readelf -h](https://i.imgur.com/45tKs7E.png)
 
 
